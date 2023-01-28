@@ -1,0 +1,50 @@
+Datos:
+a
+e
+23
+cll falsa 
+Popular
+mrlexdavi@gmail.com
+Ing. de Sistemas
+------------------------------ 
+
+Datos:
+a
+e
+23
+cll falsa 
+Popular
+mrlexdavi@gmail.com
+Ing. de Sistemas
+------------------------------ 
+
+Datos:
+censa
+prueba 2
+23
+333333
+Castilla
+mrlexdavi@gmail.com
+Medicina
+------------------------------ 
+
+Datos:
+censa
+prueba 2
+23
+333333
+Castilla
+mrlexdavi@gmail.com
+Medicina
+------------------------------ 
+
+Datos:
+censa
+prueba 2
+23
+333333
+Doce de Octubre
+mrlexdavi@gmail.com
+Ing. de Procesos
+------------------------------ 
+
